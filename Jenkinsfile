@@ -1,3 +1,4 @@
+def build_host_address = 'tcp://192.168.2.104:12375'
 pipeline {
     agent any
 
